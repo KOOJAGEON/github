@@ -14,7 +14,7 @@ int main()
 
 	e = (b * b) - (4 * a * c);
 	d = sqrt(e);
-
+	cout << a + b * b;
 	cout << (-b + d) / (2 * a) << endl;
 	cout << (-b - d) / (2 * a) << endl;
 
